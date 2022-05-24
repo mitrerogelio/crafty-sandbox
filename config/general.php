@@ -31,4 +31,9 @@ return [
 
     // The secure key Craft will use for hashing and encrypting data
     'securityKey' => getenv('SECURITY_KEY'),
+    
+    // Aliases
+    'aliases' => [
+        '@web' => App::env('PRIMARY_SITE_URL'),
+    ],
 ];

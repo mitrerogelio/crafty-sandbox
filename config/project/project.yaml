@@ -1,17 +1,25 @@
-dateModified: 1652748968
+dateModified: 1653358862
 email:
   fromEmail: rogelinmitre@gmail.com
-  fromName: 'Plain Bagel'
+  fromName: 'Crafty Bagel'
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
-    7a6a5131-23da-4dd1-8805-7832301a2333: 'Plain Bagel'
-    8b2f77c9-0a84-4c6d-b0bc-485de5b64168: 'Plain Bagel'
-    fe001b34-792f-4ea2-ad26-590122109977: Common
+    7a6a5131-23da-4dd1-8805-7832301a2333: 'Crafty Bagel' # Crafty Bagel
+    7cdda3d8-8fbb-4034-8d49-e42dbd472686: Homepage # Homepage
+    8b2f77c9-0a84-4c6d-b0bc-485de5b64168: 'Crafty Bagel' # Crafty Bagel
+    957251d0-286e-4523-9836-c89da741f7d8: Homepage # Homepage
+    cc4c2be9-8ed1-400e-8694-404f83546301: Text # Text
+    fe001b34-792f-4ea2-ad26-590122109977: Common # Common
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
 system:
   edition: solo
   live: true
-  name: 'Plain Bagel'
+  name: 'Crafty Bagel'
   schemaVersion: 4.0.0.9
   timeZone: America/Los_Angeles
 users:
