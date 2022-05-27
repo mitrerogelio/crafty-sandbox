@@ -1,0 +1,19 @@
+columnSuffix: iimdagid
+contentColumnType: text
+fieldGroup: fe001b34-792f-4ea2-ad26-590122109977 # Common
+handle: summary
+instructions: null
+name: Summary
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

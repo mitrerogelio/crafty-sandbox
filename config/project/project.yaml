@@ -1,4 +1,4 @@
-dateModified: 1653358862
+dateModified: 1653405768
 email:
   fromEmail: rogelinmitre@gmail.com
   fromName: 'Crafty Bagel'
@@ -8,6 +8,9 @@ meta:
     7a6a5131-23da-4dd1-8805-7832301a2333: 'Crafty Bagel' # Crafty Bagel
     7cdda3d8-8fbb-4034-8d49-e42dbd472686: Homepage # Homepage
     8b2f77c9-0a84-4c6d-b0bc-485de5b64168: 'Crafty Bagel' # Crafty Bagel
+    57a47b1e-d075-4211-9be0-bae0354bc0ef: 'Market News' # Market News
+    99b66245-be0a-4efc-bdc2-fc76e3f39c2d: Default # Default
+    726b5208-c675-493d-9ba0-7ca4a203b6ba: Summary # Summary
     957251d0-286e-4523-9836-c89da741f7d8: Homepage # Homepage
     cc4c2be9-8ed1-400e-8694-404f83546301: Text # Text
     fe001b34-792f-4ea2-ad26-590122109977: Common # Common

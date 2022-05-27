@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: marketNews
+name: 'Market News'
+propagationMethod: all
+siteSettings:
+  7a6a5131-23da-4dd1-8805-7832301a2333: # Crafty Bagel
+    enabledByDefault: true
+    hasUrls: true
+    template: news/_entry.twig
+    uriFormat: 'market-news/{slug}'
+type: channel
